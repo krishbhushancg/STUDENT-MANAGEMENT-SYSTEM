@@ -5,7 +5,7 @@ MAKING A REPO FOR MANAGING STUDENTS
 
 ## Features
 
--students management system
--student login
--student profile
--student dashboard
+ - students management system
+ - student login
+ - student profile
+ - student dashboard
