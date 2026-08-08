@@ -4,3 +4,4 @@ for registration
 - password
 - email
 - phone  number
+- captcha
